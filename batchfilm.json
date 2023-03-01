@@ -1,0 +1,34 @@
+{
+    "Film": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Film": {"S": "Star wars"},
+                  "Title": {"S": "The force awakens"},
+                  "Category": {"S": "Science fiction"},
+                  "ReleaseYear": {"S": "2005"}
+                }
+            }
+        },
+        {
+          "PutRequest": {
+            "Item": {
+              "Film": {"S": "Star wars"},
+              "Title": {"S": "Return of the Jedi"},
+              "Category": {"S": "Science fiction"},
+              "ReleaseYear": {"S": "1983"}
+            }
+        }
+        },
+        {
+          "PutRequest": {
+            "Item": {
+              "Film": {"S": "Star wars"},
+              "Title": {"S": "The Bad Batch"},
+              "Category": {"S": "Science fiction"},
+              "ReleaseYear": {"S": "2021"}
+            }
+        }
+        }
+    ]
+}
