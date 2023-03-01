@@ -1,0 +1,10 @@
+{
+    "PutRequest": {
+      "Item": {
+        "Film": {"S": "Star wars"},
+        "Title": {"S": "Return of the Jedi"},
+        "Category": {"S": "Science fiction"},
+        "ReleaseYear": {"S": "1983"}
+      }
+  }
+}
