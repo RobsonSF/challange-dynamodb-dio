@@ -1,1 +1,1 @@
-# Boas práticas com DynamoDB
+# DESAFIO DIO: Boas práticas com DynamoDB
